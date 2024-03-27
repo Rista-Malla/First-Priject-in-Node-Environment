@@ -1,0 +1,14 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "first-node-project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "rista",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.6"
+  }
+}
